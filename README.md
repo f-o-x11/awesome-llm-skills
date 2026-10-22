@@ -113,6 +113,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Skills with MCP
 
+- [deed-page](https://github.com/f-o-x11/deed-page-skill) - Publishes an HTML file or static folder the agent generated to a permanent public deed.page URL with one curl request, no account, using the Agent Skill or the remote MCP server.
 - [Notion Knowledge Capture](./notion-knowledge-capture/) - Converts chats and decisions into structured Notion pages and database entries with proper linking.
 - [Notion Meeting Intelligence](./notion-meeting-intelligence/) - Preps meetings from Notion context and creates internal pre-reads plus external agendas.
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
